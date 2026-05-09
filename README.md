@@ -37,10 +37,10 @@
 ---
 
 ## ⚙️ Installation-all
-## git clone https://github.com/mdarif76769/Phantom-Droid.git
-# cd Pantom-Droid
-# pip3 install -r requirements.txt
-# puthon phantom-droid.py
+git clone https://github.com/mdarif76769/Phantom-Droid.git
+cd Pantom-Droid
+ pip3 install -r requirements.txt
+ puthon phantom-droid.py
 
 # 1. Clone / navigate to the tool directory
 cd /path/to/phantom-droid
@@ -60,8 +60,8 @@ sudo pacman -S android-tools  # Arch
 
 # 5. (Optional for payload generation) Install Metasploit
 # https://docs.metasploit.com/docs/using-metasploit/getting-started/nightly-installers.html
-```
-### Screenshot
+
+Screenshot
 ![terminul](Screenshot/Screenshot_2026-05-09-16-31-02-742_com.termux.jpg)
 ![terminal 2](Screenshot/Screenshot_2026-05-09-16-31-14-836_com.termux.jpg)
 ---
