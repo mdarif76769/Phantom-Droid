@@ -43,6 +43,7 @@ git clone https://github.com/mdarif76769/Phantom-Droid.git
 &&pip3 install -r requirements.txt
 &&puthon phantom-droid.py
 ```
+```bash
 # 1. Clone / navigate to the tool directory
 cd /path/to/phantom-droid
 # or
