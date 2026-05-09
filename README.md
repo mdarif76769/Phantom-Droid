@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 PhantomDroid
+# 👻 Phantom-Droid
 ### Advanced Android Penetration Testing Framework
 
 **Author:** RS5Arif | Instagram: [@mdarif76769](https://instagram.com/mdarif76769)
@@ -36,11 +36,14 @@
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation-all
+## git clone https://github.com/mdarif76769/Phantom-Droid.git
+# cd Pantom-Droid
+# pip3 install -r requirements.txt
+# puthon phantom-droid.py
 
-```bash
 # 1. Clone / navigate to the tool directory
-cd /path/to/phanto-mdroid
+cd /path/to/phantom-droid
 # or
 git clone https://github.com/mdarif76769/Phantom-Droid.git
 
@@ -58,7 +61,9 @@ sudo pacman -S android-tools  # Arch
 # 5. (Optional for payload generation) Install Metasploit
 # https://docs.metasploit.com/docs/using-metasploit/getting-started/nightly-installers.html
 ```
-
+### Screenshot
+![terminul](Screenshot/Screenshot_2026-05-09-16-31-02-742_com.termux.jpg)
+![terminal 2](Screenshot/Screenshot_2026-05-09-16-31-14-836_com.termux.jpg)
 ---
 
 ## 🖥️ Usage
