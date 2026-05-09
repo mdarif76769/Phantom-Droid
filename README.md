@@ -39,9 +39,9 @@
 ## ⚙️ Installation-all
 ```bash
 git clone https://github.com/mdarif76769/Phantom-Droid.git
-&&cd Pantom-Droid
-&&pip3 install -r requirements.txt
-&&puthon phantom-droid.py
+&& cd Pantom-Droid
+&& pip3 install -r requirements.txt
+&& puthon phantom-droid.py
 ```
 ```bash
 # 1. Clone / navigate to the tool directory
